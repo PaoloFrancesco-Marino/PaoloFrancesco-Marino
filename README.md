@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there I'm Paolo 👋
+##
+
+[![Anurag's github stats](https://github-readme-stats-swart-psi.vercel.app/api?username=PaoloFrancesco-Marino&show_icons=true&hide=contribs,issues)](https://github.com/PaoloFrancesco-Marino/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloFrancesco-Marino&layout=compact)](https://github.com/PaoloFrancesco-Marino/github-readme-stats)
+
+##
 
 <!--
 **PaoloFrancesco-Marino/PaoloFrancesco-Marino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
