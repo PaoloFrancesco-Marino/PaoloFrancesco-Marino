@@ -3,7 +3,6 @@ My name is Paolo Francesco Marino and I'm a Jr. Full Stack Web Developer. I'm fr
 
 You can find me on [LinkedIn][1] 
 
-![italy](https://img.shields.io/badge/from-italy-2bbc8a)
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
