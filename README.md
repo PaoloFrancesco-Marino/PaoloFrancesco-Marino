@@ -1,7 +1,7 @@
 ## Hi there I'm Paolo 👋
 
-![italy](https://img.shields.io/badge/from-italy-blue)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![italy](https://img.shields.io/badge/from-italy-79dafa)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=79dafa)
 
 ## GitHub Stats
 
