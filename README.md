@@ -2,9 +2,15 @@
 ![italy](https://img.shields.io/badge/from-italy-2bbc8a)
 
 ## Technologies & Tools
-
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Bootstrap?color=2bbc8a&label=Framework&logo=bootstrap)
+
 
 ## GitHub Stats
 
