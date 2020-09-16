@@ -1,4 +1,8 @@
 # Hi there I'm Paolo 👋
+My name is Paolo Francesco Marino and I'm a Jr. Full Stack Web Developer. I'm from Italy, and currently I am actively looking for a job as a web developer jr. 
+
+You can find me on [LinkedIn][1] 
+
 ![italy](https://img.shields.io/badge/from-italy-2bbc8a)
 
 ## Technologies & Tools
@@ -20,6 +24,13 @@
 <a href="https://github.com/PaoloFrancesco-Marino/PaoloFrancesco-Marino">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PaoloFrancesco-Marino&show_icons=true&line_height=27&count_private=true&&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=282a36"/>
 </a>
+
+<!-- links to your social media accounts -->
+[1]: https://www.linkedin.com/in/paolo-francesco-marino/
+
+<!-- icon social media accounts 
+[1.1]: https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png  -->
+
 
 <!--
 **PaoloFrancesco-Marino/PaoloFrancesco-Marino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
