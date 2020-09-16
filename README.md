@@ -1,15 +1,15 @@
-## Hi there I'm Paolo 👋
+# Hi there I'm Paolo 👋
 
-![italy](https://img.shields.io/badge/from-italy-79dafa)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=79dafa)
+![italy](https://img.shields.io/badge/from-italy-2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 ## GitHub Stats
 
 <a href="https://github.com/PaoloFrancesco-Marino/PaoloFrancesco-Marino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloFrancesco-Marino&title_color=79dafa&text_color=c9cacc&icon_color=79dafa&bg_color=282a36&hide=html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloFrancesco-Marino&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=282a36&hide=html" />
 </a>
 <a href="https://github.com/PaoloFrancesco-Marino/PaoloFrancesco-Marino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PaoloFrancesco-Marino&show_icons=true&line_height=27&count_private=true&&title_color=79dafa&text_color=c9cacc&icon_color=79dafa&bg_color=282a36"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PaoloFrancesco-Marino&show_icons=true&line_height=27&count_private=true&&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=282a36"/>
 </a>
 
 <!--
