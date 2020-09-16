@@ -3,16 +3,14 @@
 
 ![italy](https://img.shields.io/badge/from-italy-blue)
 
-[![Anurag's github stats](https://github-readme-stats-swart-psi.vercel.app/api?username=PaoloFrancesco-Marino&show_icons=true&hide=contribs,issues)](https://github.com/PaoloFrancesco-Marino/github-readme-stats)
+## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/PaoloFrancesco-Marino/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloFrancesco-Marino&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloFrancesco-Marino&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=html" />
 </a>
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloFrancesco-Marino&layout=compact)](https://github.com/PaoloFrancesco-Marino/github-readme-stats)
--->
-
+<a href="https://github.com/PaoloFrancesco-Marino/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PaoloFrancesco-Marino&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+</a>
 ---
 
 <!--
