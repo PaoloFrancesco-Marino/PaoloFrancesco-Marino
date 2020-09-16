@@ -1,7 +1,7 @@
 ### Hi there I'm Paolo 👋
----
 
 ![italy](https://img.shields.io/badge/from-italy-blue)
+
 
 ## &#x1f4c8; GitHub Stats
 
@@ -11,8 +11,6 @@
 <a href="https://github.com/PaoloFrancesco-Marino/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PaoloFrancesco-Marino&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
-
----
 
 <!--
 **PaoloFrancesco-Marino/PaoloFrancesco-Marino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
