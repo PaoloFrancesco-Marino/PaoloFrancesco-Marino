@@ -2,6 +2,8 @@
 
 ![italy](https://img.shields.io/badge/from-italy-2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS-Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+
 
 ## GitHub Stats
 
