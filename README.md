@@ -1,5 +1,5 @@
 # Hi there I'm Paolo 👋
-My name is Paolo Francesco Marino and I'm a Jr. Full Stack Web Developer. I'm from Italy, and currently I am actively looking for a job as a web developer jr. 
+Jr. Full Stack Web Developer.
 
 You can find me on [LinkedIn][1] 
 
